@@ -1,13 +1,26 @@
-# flexMenu 1.5
+# flexMenu 1.6.2
 flexMenu is a jQuery plugin that lets you create responsive menus that automatically collapse into a "more" drop-down when they run out of space.  When there's only space to display one or two items, all the items collapse into a "menu" drop-down.
 
 [Demo](http://352media.github.com/flexMenu/)
-
 [Source on GitHub](https://github.com/352Media/flexMenu)
 
-[Available on CDNJS](https://cdnjs.com/libraries/flexMenu)
+Available on [CDNJS](https://cdnjs.com/libraries/flexMenu) and [npm](https://www.npmjs.com/package/@rdebeasi/flexmenu)
 
 Written by [Ryan DeBeasi](http://www.ryandebeasi.com/) and [our fantastic contributors](https://github.com/352Media/flexMenu/graphs/contributors).
+
+## :warning: Not Maintained :warning:
+
+This project is no longer maintained. For alternatives, check out [The Priority+ Navigation Pattern](https://css-tricks.com/the-priority-navigation-pattern/) on CSS Tricks or the [priority-navigation](https://github.com/gijsroge/priority-navigation) library.
+
+---
+
+Since this plugin was first released in 2012, it received some fantastic [contributions from the community](https://github.com/352Media/flexMenu/graphs/contributors) and [appeared on Tuts+](https://webdesign.tutsplus.com/tutorials/a-flexible-approach-to-responsive-navigation--webdesign-8397). Separately, Michael Scharnagl experimented with similar design patterns and coined the term "[Priority+ Pattern](https://justmarkup.com/articles/2012-06-19-responsive-multi-level-navigation/)" _five days_ after I [first released flexMenu](https://github.com/352Media/flexMenu/commit/c01e0365d9217b36748574d83f45de578b3527fd). There were probably other folks who were experimenting with this pattern before either of us were!
+
+Today, [several libraries](https://github.com/gijsroge/priority-navigation#alternatives) implement this design pattern in a modern way. They're awesome - so good that they've made flexMenu obselete! :smiley:
+
+Thank you to everyone who creates designs, articles, and tools for responsive navigation. Let's keep building cool stuff together! :rocket:
+
+\- @rdebeasi
 
 ## Usage
 
